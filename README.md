@@ -12,7 +12,7 @@
 ![4](./screen-colorama4.png)
 
 # Usage
-        `println(Fore.BLACK, Fore.BOLD, Back.BRIGHT_GREEN, "Dima Hinev");
+        println(Fore.BLACK, Fore.BOLD, Back.BRIGHT_GREEN, "Dima Hinev");
         println("set", Fore.CYAN, Fore.BOLD, Back.GREEN, "Permanent text in the SET mode");
         println("In the set mode text doesn't change style");
         println(Fore.RED, "You can change something but the rest remains");
@@ -46,4 +46,4 @@
             }
             System.out.println();
         }
-        println("set",Fore.BOLD,"\nEnjoy this Class!!!\nGood Luck!!!\nBye-bye","resetBold");`
+        println("set",Fore.BOLD,"\nEnjoy this Class!!!\nGood Luck!!!\nBye-bye","resetBold");
